@@ -140,6 +140,21 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01 helloworld.cpp" />
+    <ClCompile Include="02三只小猪称体重.cpp" />
+    <ClCompile Include="03猜数字.cpp" />
+    <ClCompile Include="04水仙花数.cpp" />
+    <ClCompile Include="05敲桌子.cpp" />
+    <ClCompile Include="06乘法口诀表.cpp" />
+    <ClCompile Include="07五只小猪称体重.cpp" />
+    <ClCompile Include="08数组元素逆置.cpp" />
+    <ClCompile Include="09冒泡排序.cpp" />
+    <ClCompile Include="10考试成绩统计.cpp" />
+    <ClCompile Include="11函数的分文件编写.cpp" />
+    <ClCompile Include="12结构体案例1.cpp" />
+    <ClCompile Include="13结构体案例2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="11函数的分文件编写.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
